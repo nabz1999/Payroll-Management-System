@@ -1,6 +1,7 @@
-# Payroll Management System
+## Payroll Management System
 Payroll Management of employees in an organisation.
-MAIN FUNCTIONS:
+
+## Main Functions:
   a. Adding emoplyee data
   b. Updating employee data
   c. Viewing employee data list
